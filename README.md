@@ -1,9 +1,9 @@
 # E-Commerce Market Comparison between Amazon UK and Amazon Brazil
 
 **Contributors:**
-- Donghyeon Na (Team Lead)
+- Shuomeng Guan (Team Lead)
+- Donghyeon Na
 - Aashrith Kandhada
 - Courtney Vincent
-- Shuomeng Guan
 - Wei-An Huang
 - Hui Gao
